@@ -170,6 +170,10 @@ The actor model is a similarly high-level abstraction as CSP but differs in that
 
 - *Encyclopedia of Parallel Computing* by David Padua (Ed.) 2011
 
+# Author
+
+slikts <dabas@untu.ms>
+
 # License
 
 Licensed under [CC BY-SA 2.0][license].
