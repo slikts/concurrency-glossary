@@ -1,4 +1,4 @@
-<center><img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary"></p>
 
 This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide a unified resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings.
 
