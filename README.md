@@ -163,6 +163,7 @@ The actor model is a similarly high-level abstraction as CSP but differs in that
 - [Programming Paradigms for Dummies: What Every Programmer Should Know][dummies]
 - [Railway Oriented Programming][rop]
 - [Functional Programming with Effects][effects]
+- [A General Theory of Reactivity][gtor]
 <!--- [Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control][markm]-->
 
 # Bibliography
@@ -178,3 +179,4 @@ Licensed under [CC BY-SA 2.0][license].
 [rop]: https://fsharpforfunandprofit.com/rop/
 [effects]: https://www.youtube.com/watch?v=GZRL5Z40w60
 [markm]: http://erights.org/talks/thesis/markm-thesis.pdf
+[gtor]: https://github.com/kriskowal/gtor
