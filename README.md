@@ -7,7 +7,7 @@
   <a href="https://GitHub.com/slikts/concurrency-glossary/issues/" target="_blank"><img src="https://img.shields.io/github/issues/slikts/concurrency-glossary.svg" alt="GitHub issues"></a>
 </p>
 
-This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide an unfragmented resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings. The indended audience are programmers and students of programming languages.
+This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide an unfragmented resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings. The intended audience are programmers and students of programming languages.
 
 🚧 *Work in progress; criticism welcome*
 
@@ -117,7 +117,7 @@ The difference between green and lightweight threads is that green threads aren'
 
 ## Hybrid user and system threads
 
-User-level threads can still be parallelized by being scheduled or multiplexed onto different system threads; an example of such scheduling is the the M:N model used for Go goroutines, also called *hybrid threading*. M refers to the number of user threads while N is the number of system threads. Alternative models are 1:1, which means using system threads as the unit of concurrency, and N:1, which means using a single system thread. A notable example of the 1:1 model is the Apache HTTP server, while JavaScript is a notable example of the N:1 model.
+User-level threads can still be parallelized by being scheduled or multiplexed onto different system threads; an example of such scheduling is the M:N model used for Go goroutines, also called *hybrid threading*. M refers to the number of user threads while N is the number of system threads. Alternative models are 1:1, which means using system threads as the unit of concurrency, and N:1, which means using a single system thread. A notable example of the 1:1 model is the Apache HTTP server, while JavaScript is a notable example of the N:1 model.
 
 # Shared state vs message passing (distributed state)
 
