@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary">
+  <a href="https://slikts.github.io/concurrency-glossary/"><img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary"></a>
 </p>
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC-BY-SA 4.0"></a>
