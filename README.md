@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary">
+  <img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary">
 </p>
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![GitHub contributors](https://img.shields.io/github/contributors/slikts/concurrency-glossary.svg)](https://GitHub.com/slikts/concurrency-glossary/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/slikts/concurrency-glossary.svg)](https://GitHub.com/slikts/concurrency-glossary/issues/)
-![Analytics](https://ga-beacon.appspot.com/UA-1090993-9/readme?pixel)
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC-BY-SA 4.0"></a>
+  <a href="https://GitHub.com/slikts/concurrency-glossary/graphs/contributors/" target="_blank"><img src="https://img.shields.io/github/contributors/slikts/concurrency-glossary.svg" alt="GitHub contributors"></a>
+  <a href="https://GitHub.com/slikts/concurrency-glossary/issues/" target="_blank"><img src="https://img.shields.io/github/issues/slikts/concurrency-glossary.svg" alt="GitHub issues"></a>
+</p>
 
 This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide an unfragmented resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings. The indended audience are programmers and students of programming languages.
 
@@ -191,3 +191,4 @@ Licensed under [CC BY-SA 4.0][license].
 [effects]: https://www.youtube.com/watch?v=GZRL5Z40w60
 [markm]: http://erights.org/talks/thesis/markm-thesis.pdf
 [gtor]: https://github.com/kriskowal/gtor
+![Analytics](https://ga-beacon.appspot.com/UA-1090993-9/readme?pixel)
