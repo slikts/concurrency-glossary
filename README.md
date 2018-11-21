@@ -1,8 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary"></p>
 
-This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide a unified resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings.
+This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide an unfragmented resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings. The indended audience are programmers and students of programming languages.
 
-🚧 Work in progress
+🚧 *Work in progress; criticism welcome*
 
 # Layers of abstraction
 
@@ -162,7 +162,7 @@ The actor model is a similarly high-level abstraction as CSP but differs in that
 
 - [Programming Paradigms for Dummies: What Every Programmer Should Know][dummies]
 - [Railway Oriented Programming][rop]
-- [Functional Programming with Effects][effects]
+- [▶️ Functional Programming with Effects][effects]
 - [A General Theory of Reactivity][gtor]
 <!--- [Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control][markm]-->
 
