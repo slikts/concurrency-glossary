@@ -1,4 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/slikts/concurrency-glossary/master/logo.svg?sanitize=true" width="400" height="136" alt="Concurrency Glossary">
+</p>
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub contributors](https://img.shields.io/github/contributors/slikts/concurrency-glossary.svg)](https://GitHub.com/slikts/concurrency-glossary/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/slikts/concurrency-glossary.svg)](https://GitHub.com/slikts/concurrency-glossary/issues/)
+![Analytics](https://ga-beacon.appspot.com/UA-1090993-9/readme?pixel)
 
 This is an informal top-level overview of terms used in concurrent computing. The motivations are to provide an unfragmented resource on a topic of wide relevance, to disambiguate overloaded terms and to aid natural understanding by contextualizing certain terms more broadly than their conventional meanings. The indended audience are programmers and students of programming languages.
 
@@ -176,9 +183,9 @@ slikts <dabas@untu.ms>
 
 # License
 
-Licensed under [CC BY-SA 2.0][license].
+Licensed under [CC BY-SA 4.0][license].
 
-[license]: https://creativecommons.org/licenses/by-sa/2.0/
+[license]: https://creativecommons.org/licenses/by-sa/4.0/
 [dummies]: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
 [rop]: https://fsharpforfunandprofit.com/rop/
 [effects]: https://www.youtube.com/watch?v=GZRL5Z40w60
