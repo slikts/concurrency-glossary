@@ -184,6 +184,7 @@ slikts <dabas@untu.ms>
 # License
 
 Licensed under [CC BY-SA 4.0][license].
+![Analytics](https://ga-beacon.appspot.com/UA-1090993-9/readme?pixel)
 
 [license]: https://creativecommons.org/licenses/by-sa/4.0/
 [dummies]: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
@@ -191,4 +192,3 @@ Licensed under [CC BY-SA 4.0][license].
 [effects]: https://www.youtube.com/watch?v=GZRL5Z40w60
 [markm]: http://erights.org/talks/thesis/markm-thesis.pdf
 [gtor]: https://github.com/kriskowal/gtor
-![Analytics](https://ga-beacon.appspot.com/UA-1090993-9/readme?pixel)
