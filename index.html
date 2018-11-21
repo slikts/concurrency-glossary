@@ -29,6 +29,17 @@
     p[align=center] {
       text-align: left;
     }
+    @media screen and (max-width: 768px) {
+      p[align=center]:first-child {
+        display: block;
+      }
+      p[align=center] {
+        text-align: center;
+      }
+      .sidebar .app-name {
+        display: none;
+      }
+    }
     .content {
       padding-top: 0;
     }
@@ -36,7 +47,11 @@
       padding-top: 1rem;
     }
   </style>
-  <div id="app"></div>
+  <div id="app">
+    <p><img width="300" src="./logo.svg" alt="Concurrency Glossary"></p>
+    <p>Loading…</p>
+    <p style="font-size: 1rem;">In case the page doesn't load, it can be <a href="https://github.com/slikts/concurrency-glossary">viewed in GitHub</a>.</p>
+  </div>
   <script>
     window.$docsify = {
       name: 'Concurrency Glossary',
@@ -49,10 +64,5 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <noscript>
-    <p>
-      Sorry, this page requires JavaScript, but <a href="https://github.com/slikts/concurrency-glossary">it can be viewed statically on GitHub</a> instead.
-    </p>
-  </noscript>
 </body>
 </html>
