@@ -1,73 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Concurrency Glossary</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="🦑 Informal definitions of terms used in concurrency modeling">
-  <meta property="og:title" content="Concurrency Glossary">
-  <meta property="og:description" content="🦑 Informal definitions of terms used in concurrency modeling">
-  <meta property="og:image" content="https://slikts.github.io/concurrency-glossary/logo.png">
-  <meta property="og:url" content="https://slikts.github.io/concurrency-glossary/">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet">
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
-</head>
-<body>
-  <style>
-    h1, h2, h3 {
-      font-family: 'Cuprum', sans-serif;
-    }
-    .markdown-section h1 {
-      margin-top: 2.5rem;
-      border-bottom: 1px solid rgba(0,0,0,.07);
-    }
-    .markdown-section h2 {
-      font-size: 1.5rem;
-      margin-top: 1.5rem;
-    }
-    p[align=center]:first-child {
-      display: none;
-    }
-    p[align=center] {
-      text-align: left;
-    }
-    @media screen and (max-width: 768px) {
-      p[align=center]:first-child {
-        display: block;
+  <head>
+    <meta charset="UTF-8" />
+    <title>Concurrency Glossary</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      name="description"
+      content="🦑 Informal definitions of terms used in concurrency modeling"
+    />
+    <meta property="og:title" content="Concurrency Glossary" />
+    <meta
+      property="og:description"
+      content="🦑 Informal definitions of terms used in concurrency modeling"
+    />
+    <meta
+      property="og:image"
+      content="https://slikts.github.io/concurrency-glossary/preview.gif"
+    />
+    <meta
+      property="og:url"
+      content="https://slikts.github.io/concurrency-glossary/"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Cuprum"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+  </head>
+  <body>
+    <style>
+      h1,
+      h2,
+      h3 {
+        font-family: 'Cuprum', sans-serif;
       }
-      p[align=center] {
-        text-align: center;
+      .markdown-section h1 {
+        margin-top: 2.5rem;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.07);
       }
-      .sidebar .app-name {
+      .markdown-section h2 {
+        font-size: 1.5rem;
+        margin-top: 1.5rem;
+      }
+      p[align='center']:first-child {
         display: none;
       }
-    }
-    .content {
-      padding-top: 0;
-    }
-    .sidebar {
-      padding-top: 1rem;
-    }
-  </style>
-  <div id="app">
-    <p><img width="300" src="./logo.svg" alt="Concurrency Glossary"></p>
-    <p>Loading…</p>
-    <p style="font-size: 1rem;">In case the page doesn't load, it can be <a href="https://github.com/slikts/concurrency-glossary">viewed in GitHub</a>.</p>
-  </div>
-  <script>
-    window.$docsify = {
-      name: 'Concurrency Glossary',
-      repo: 'slikts/concurrency-glossary',
-      themeColor: '#40147f',
-      loadSidebar: false,
-      coverpage: false,
-      logo: './logo.svg',
-      routerMode: 'history'
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-</body>
+      p[align='center'] {
+        text-align: left;
+      }
+      @media screen and (max-width: 768px) {
+        p[align='center']:first-child {
+          display: block;
+        }
+        p[align='center'] {
+          text-align: center;
+        }
+        .sidebar .app-name {
+          display: none;
+        }
+      }
+      .content {
+        padding-top: 0;
+      }
+      .sidebar {
+        padding-top: 1rem;
+      }
+    </style>
+    <div id="app">
+      <p><img width="300" src="./logo.svg" alt="Concurrency Glossary" /></p>
+      <p>Loading…</p>
+      <p style="font-size: 1rem;">
+        In case the page doesn't load, it can be
+        <a href="https://github.com/slikts/concurrency-glossary"
+          >viewed in GitHub</a
+        >.
+      </p>
+    </div>
+    <script>
+      window.$docsify = {
+        name: 'Concurrency Glossary',
+        repo: 'slikts/concurrency-glossary',
+        themeColor: '#40147f',
+        loadSidebar: false,
+        coverpage: false,
+        logo: './logo.svg',
+        routerMode: 'history',
+      };
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  </body>
 </html>
